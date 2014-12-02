@@ -1,0 +1,7 @@
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\AllEmployees\bin\Debug\AllEmployees.dll
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\AllEmployees\bin\Debug\AllEmployees.pdb
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\AllEmployees\bin\Debug\Supporting.dll
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\AllEmployees\bin\Debug\Supporting.pdb
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\AllEmployees\obj\Debug\AllEmployees.csprojResolveAssemblyReference.cache
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\AllEmployees\obj\Debug\AllEmployees.dll
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\AllEmployees\obj\Debug\AllEmployees.pdb

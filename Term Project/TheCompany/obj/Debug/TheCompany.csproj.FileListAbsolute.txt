@@ -1,0 +1,9 @@
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\TheCompany\bin\Debug\TheCompany.dll
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\TheCompany\bin\Debug\TheCompany.pdb
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\TheCompany\bin\Debug\AllEmployees.dll
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\TheCompany\bin\Debug\Supporting.dll
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\TheCompany\bin\Debug\AllEmployees.pdb
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\TheCompany\bin\Debug\Supporting.pdb
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\TheCompany\obj\Debug\TheCompany.csprojResolveAssemblyReference.cache
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\TheCompany\obj\Debug\TheCompany.dll
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\TheCompany\obj\Debug\TheCompany.pdb

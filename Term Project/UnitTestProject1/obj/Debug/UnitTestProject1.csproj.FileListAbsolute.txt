@@ -1,0 +1,15 @@
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\UnitTestProject1\bin\Debug\AllEmployees.dll
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\UnitTestProject1\bin\Debug\Presentation.dll
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\UnitTestProject1\bin\Debug\Supporting.dll
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\UnitTestProject1\bin\Debug\Term Project.exe
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\UnitTestProject1\bin\Debug\TheCompany.dll
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\UnitTestProject1\bin\Debug\AllEmployees.pdb
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\UnitTestProject1\bin\Debug\Presentation.pdb
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\UnitTestProject1\bin\Debug\Supporting.pdb
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\UnitTestProject1\bin\Debug\Term Project.pdb
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\UnitTestProject1\bin\Debug\TheCompany.pdb
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Dallas\Documents\School\Software Quality\Term Project\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
